@@ -4,7 +4,7 @@ import {NavBar} from '../components/navBar/navBar';
 
 export default function Document() {
   return (
-    <Html lang="en">
+    <Html lang="es">
       <Head />
       <NavBar />
 

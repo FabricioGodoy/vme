@@ -1,4 +1,11 @@
 
+
+
+export const metadata = {
+  title: "Mi Web",
+  description: "Mi Web",
+};
+
 export default function Home() {
   return (
     <div>
