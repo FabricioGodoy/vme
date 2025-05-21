@@ -8,7 +8,8 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <div>
+    <div className="containerIndex">
+      
       <h1>Mi Web</h1>
       <a href="/about">
         Ir a About
